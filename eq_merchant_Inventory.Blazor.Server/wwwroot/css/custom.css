@@ -1,0 +1,30 @@
+﻿body {
+    background-color: var(--brown-light) !important;
+    color: var(--brown-dark);
+}
+h1, h2, h3 {
+    color: var(--brown-primary) !important;
+}
+
+a {
+    color: var(--brown-primary) !important;
+    text-decoration: none;
+}
+
+    a:hover {
+        color: var(--brown-dark) !important;
+    }
+
+    html, body {
+    height: 100%;
+}
+
+body {
+    background-color: var(--brown-light) !important;
+    color: var(--brown-dark);
+    font-family: Arial, sans-serif;
+}
+
+#app, .main-container {
+    background-color: var(--brown-light) !important; /* Adjust to your main container if necessary */
+}
